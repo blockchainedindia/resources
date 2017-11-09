@@ -1,4 +1,4 @@
-# Blockchain Resources
+# [Blockchain Resources](https://blockchainedindia.github.io/resources)
 
 Curated list of blockchain and general cryptocurrency resources
 
@@ -253,3 +253,7 @@ Curated list of blockchain and general cryptocurrency resources
 ### Private Blockchain
 * [HyperLedger](https://www.hyperledger.org/)
 * [Openchain](https://www.openchain.com/)
+
+
+If you think something's missing, feel free to let us know about it [here](https://github.com/blockchainedindia/resources/issues/new).
+And we would make sure to add you as collborator. :)
