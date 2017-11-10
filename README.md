@@ -17,7 +17,7 @@ Curated list of blockchain and general cryptocurrency resources
 - [Youtube Channels](#youtube-channels)
 - [Assets](#assets)
 - [Private Blockchains](#private-blockchain)
-- [Videos](#videos)
+- [Tutorials](#tutorials)
 
 
 
@@ -255,13 +255,20 @@ Curated list of blockchain and general cryptocurrency resources
 * [HyperLedger](https://www.hyperledger.org/)
 * [Openchain](https://www.openchain.com/)
 
-### Videos
+### Tutorials
 * [How Bitcoin Works in 5 Minutes (Technical)](https://www.youtube.com/watch?v=l9jOJk30eQs) (5m:25s)  by [Curious Inventor](http://Patreon.com/CuriousInventor)
 * [How Bitcoin Works Under the Hood](https://www.youtube.com/watch?v=Lx9zgZCMqXE) (22m:24s) by [Curious Inventor](http://Patreon.com/CuriousInventor)
 * [Mechanics of Bitcoin](https://www.youtube.com/watch?v=t3hJsFpPmXs) (1h:19m:49s) by [Princeton 
 Bitcoin and Cryptocurrency Technologies Online Course](https://www.coursera.org/course/bitcointech)
 * [Programming Bitcoin Youtube Channel](https://www.youtube.com/programmingbitcoin) by Murray
 * [Coding Multi-Signature Addresses](https://www.youtube.com/watch?v=zIbUSaZBJgU) by D'Angelo
+* [Cryptographic Currencies Crash Course (C4)](http://www2016.net/proceedings/companion/p1021.pdf) by Aljosha Judmayer and Edgar Weipp
+* [The libbitcoin Tutorial](http://libbitcoin.dyne.org/doc/) by Taaki
+* [How to Parse the Bitcoin Blockchain](http://codesuppository.blogspot.com/2014/01/how-to-parse-bitcoin-blockchain.html) by Ratcliff
+* [Signing Offline Transactions](https://gist.github.com/jashmenn/9811205) by Maxwell
+* [2 of 2 escrow example](https://gist.github.com/jashmenn/9811198) by Maxwell
+* [2 of 3 multisig example](https://gist.github.com/jashmenn/9811185) by Andresen
+* [How to decrypt messages in the blockchain from btcmsg](https://gist.github.com/ripper234/1625828) by ripper234
 
 
 If you think something's missing, feel free to let us know about it [here](https://github.com/blockchainedindia/resources/issues/new).
