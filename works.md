@@ -23,7 +23,7 @@ Curated list of useful blockchain and cryptocurrency company, projects, products
 
 ### Tokens
 | Name of the Token | Type of License | Blockchain | Consensus | Whitepaper | Source Code |
-|---|---|---|---|
+|---|---|---|---|---|---|
 | [Bitcoin](https://bitcoin.org/) | [MIT][mit] | Bitcoin | POW | https://bitcoin.org/bitcoin.pdf | https://github.com/bitcoin/bitcoin |
 
 
