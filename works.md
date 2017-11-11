@@ -10,13 +10,13 @@ Curated list of useful blockchain and cryptocurrency company, projects, products
 
 
 ### Companies
-* [name of company](link to company)
+* [name of company](link to company) - Type of License(Open source/ Community driven, etc) | Type of blockchain used (Ethereum/ Hyperledger, etc) | Type of consensus used (POS/ POW, etc)
 
 ### Projects
-* [name of project](link to project)
+* [name of project](link to project) - Type of License(Open source/ Community driven, etc) | Type of blockchain used (Ethereum/ Hyperledger, etc) | Type of consensus used (POS/ POW, etc)
 
 ### Tokens
-* [name of token](link to token)
+* [name of token](link to token) - Type of License(Open source/ Community driven, etc) | Type of blockchain used (Ethereum/ Hyperledger, etc) | Type of consensus used (POS/ POW, etc)
 
 
 
