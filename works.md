@@ -1,4 +1,4 @@
-# [Blockchain Works](https://blockchainedindia.github.io/resources)
+# [Blockchain Works](https://blockchainedindia.github.io/resources/works)
 
 Curated list of useful blockchain and cryptocurrency company, projects, products, works and so on added and maintained by the community for the community.
 
