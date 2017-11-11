@@ -10,15 +10,26 @@ Curated list of useful blockchain and cryptocurrency company, projects, products
 
 
 ### Companies
-* [name of company](link to company) - Type of License(Open source/ Community driven, etc) | Type of blockchain used (Ethereum/ Hyperledger, etc) | Type of consensus used (POS/ POW, etc)
+| - | - | - | - |
+| Name of the Company | Type of License | Blockchain | Consensus |
+| [name of company](link to company) | MIT | Ethereum | POW |
+| - | - | - | - |
 
 ### Projects
-* [name of project](link to project) - Type of License(Open source/ Community driven, etc) | Type of blockchain used (Ethereum/ Hyperledger, etc) | Type of consensus used (POS/ POW, etc)
+| - | - | - | - |
+| Name of the Project | Type of License | Blockchain | Consensus |
+| [name of company](link to company) | MIT | Ethereum | POW |
+| - | - | - | - |
 
 ### Tokens
-* [name of token](link to token) - Type of License(Open source/ Community driven, etc) | Type of blockchain used (Ethereum/ Hyperledger, etc) | Type of consensus used (POS/ POW, etc)
+| - | - | - | - |
+| Name of the Token | Type of License | Blockchain | Consensus | Whitepaper | Source Code |
+| [Bitcoin](https://bitcoin.org/) | [MIT][mit] | Bitcoin | POW | https://bitcoin.org/bitcoin.pdf | https://github.com/bitcoin/bitcoin |
+| - | - | - | - |
 
 
 
 If you think something's missing, feel free to let us know about it [here](https://github.com/blockchainedindia/resources/issues/new).
 And we would make sure to add you as collborator. :)
+
+[mit]: https://opensource.org/licenses/MIT
