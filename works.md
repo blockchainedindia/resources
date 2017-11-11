@@ -10,22 +10,21 @@ Curated list of useful blockchain and cryptocurrency company, projects, products
 
 
 ### Companies
-| - | - | - | - |
+
 | Name of the Company | Type of License | Blockchain | Consensus |
-| [name of company](link to company) | MIT | Ethereum | POW |
-| - | - | - | - |
+|---|---|---|---|
+|   |   |   |   |
 
 ### Projects
-| - | - | - | - |
+
 | Name of the Project | Type of License | Blockchain | Consensus |
-| [name of company](link to company) | MIT | Ethereum | POW |
-| - | - | - | - |
+|---|---|---|---|
+|   |   |   |   |
 
 ### Tokens
-| - | - | - | - |
 | Name of the Token | Type of License | Blockchain | Consensus | Whitepaper | Source Code |
+|---|---|---|---|
 | [Bitcoin](https://bitcoin.org/) | [MIT][mit] | Bitcoin | POW | https://bitcoin.org/bitcoin.pdf | https://github.com/bitcoin/bitcoin |
-| - | - | - | - |
 
 
 
