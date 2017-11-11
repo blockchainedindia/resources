@@ -22,11 +22,11 @@ Curated list of useful blockchain and cryptocurrency company, projects, products
 |   |   |   |   |
 
 ### Tokens
-| Name of the Token | Type of License | Blockchain | Consensus |
-|---|---|---|---|
-| [Bitcoin](https://bitcoin.org) | [MIT][mit] | Bitcoin | POW |
-|   |   |   |   |
 
+| Name of the Token | Type of License | Blockchain | Consensus | Whitepaper | Source Code |
+|---|---|---|---|---|---|
+| [Bitcoin](https://bitcoin.org) | [MIT][mit] | Bitcoin | POW | [link](https://bitcoin.org/bitcoin.pdf) | [link](https://github.com/bitcoin/bitcoin) |
+|   |   |   |   |   |   |
 
 
 If you think something's missing, feel free to let us know about it [here](https://github.com/blockchainedindia/resources/issues/new).
