@@ -18,6 +18,7 @@ Curated list of blockchain and general cryptocurrency resources
 - [Assets](#assets)
 - [Private Blockchains](#private-blockchain)
 - [Tutorials](#tutorials)
+- [Testnet Faucets](#testnet-faucets)
 
 
 
@@ -270,6 +271,11 @@ Bitcoin and Cryptocurrency Technologies Online Course](https://www.coursera.org/
 * [2 of 2 escrow example](https://gist.github.com/jashmenn/9811198) by Maxwell
 * [2 of 3 multisig example](https://gist.github.com/jashmenn/9811185) by Andresen
 * [How to decrypt messages in the blockchain from btcmsg](https://gist.github.com/ripper234/1625828) by ripper234
+
+
+### Testnet Faucets
+* [Get BTC on Testnet](http://tpfaucet.appspot.com)
+* [Get ETH on Rinkeby Testnet](https://www.rinkeby.io/#faucet)
 
 
 If you think something's missing, feel free to let us know about it [here](https://github.com/blockchainedindia/resources/issues/new).
