@@ -1,11 +1,12 @@
-# [Blockchain Works](https://blockchainedindia.github.io/resources/works)
+# [Blockchain Social](https://blockchainedindia.github.io/resources/social)
 
-Curated list of useful blockchain and cryptocurrency company, projects, products, works and so on added and maintained by the community for the community.
+Curated list of useful blockchain and cryptocurrency social groups and channels added and maintained by the community for the community.
 
 # Table of Contents
 
 - [Telegram Blockchain Groups](#blockchain)
 - [Telegram Cryptocurrency Groups](#cryptocurrencies)
+- [Telegram Startup Groups](#startups)
 
 
 ## Telegram Groups
