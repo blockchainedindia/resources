@@ -243,13 +243,14 @@ Curated list of blockchain and general cryptocurrency resources
 * [Wallet Explorer](https://www.walletexplorer.com/)
 * [WebBtc](https://webbtc.com/)
 
-
 ### Assets
 * [Coinspark](http://coinspark.org/)
 * [Chronicled](http://www.chronicled.com/index.html)
 * [EverLedger](https://www.everledger.io/)
 * [OpenPublish](https://github.com/blockai-unofficial/openpublish)
 * [Open Assets Protocol](https://github.com/OpenAssets/open-assets-protocol)
+* [Blockstack Keychains JS](https://github.com/blockstack/blockstack-keychains-js)
+* [Deterministic Wallets](http://blog.richardkiss.com/?p=313)
 
 ### Private Blockchain
 * [HyperLedger](https://www.hyperledger.org/)
