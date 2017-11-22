@@ -4,4 +4,4 @@ description: A curated list gathered from various sources and also contributed b
 theme: jekyll-theme-cayman
 
 show_downloads: false
-github.is_project_page: false
+github: false
