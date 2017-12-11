@@ -279,6 +279,7 @@ Bitcoin and Cryptocurrency Technologies Online Course](https://www.coursera.org/
 * [Get ETH on Rinkeby Testnet](https://www.rinkeby.io/#faucet)
 
 ### Articles
+* [Snarks](https://medium.com/@VitalikButerin/zk-snarks-under-the-hood-b33151a013f6)
 * [Bulletproofs](https://crypto.stanford.edu/bulletproofs) - Short Proofs for Confidential Transactions and More
 
 
