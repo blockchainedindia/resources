@@ -128,6 +128,7 @@ Curated list of blockchain and general cryptocurrency resources
 
 
 ### Talks
+* [All Blockchained India Talks](https://blockchainedindia.com/talks)
 * [Balaji Srinivasan gives a quick talk at Goldman Sachs. (14 min)](https://www.youtube.com/watch?v=7-vYEsfsa30)
 * [Balaji Srinivasan on Silicon Valley’s ultimate exit, the USA the Microsoft of nations (16 min)](https://www.youtube.com/watch?v=cOubCHLXT6A)
 * [Beyond Bitcoin - Block Chains and the Future of Trustless Computing (27 min)](https://www.youtube.com/watch?v=IgETC2JMUBI)
