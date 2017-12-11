@@ -19,6 +19,7 @@ Curated list of blockchain and general cryptocurrency resources
 - [Private Blockchains](#private-blockchain)
 - [Tutorials](#tutorials)
 - [Testnet Faucets](#testnet-faucets)
+- [Articles](#articles)
 
 
 
@@ -276,6 +277,9 @@ Bitcoin and Cryptocurrency Technologies Online Course](https://www.coursera.org/
 ### Testnet Faucets
 * [Get BTC on Testnet](http://tpfaucet.appspot.com)
 * [Get ETH on Rinkeby Testnet](https://www.rinkeby.io/#faucet)
+
+### Articles
+* [Bulletproofs](https://crypto.stanford.edu/bulletproofs) - Short Proofs for Confidential Transactions and More
 
 
 If you think something's missing, feel free to let us know about it [here](https://github.com/blockchainedindia/resources/issues/new).
