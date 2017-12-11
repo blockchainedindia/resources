@@ -185,6 +185,8 @@ Curated list of blockchain and general cryptocurrency resources
 * [Trust Disrupted](https://www.youtube.com/playlist?list=PLHRxVckaE8daSH4OEReWshCKWu3iIOIS-)
 * [Introduction to Ethereum and Smart Contracts](https://www.youtube.com/watch?v=r7GVVk8v2Ik)
 * [BitcoinLectures.tv] (http://bitcoinlectures.tv)
+* [Everything Tangle](https://www.youtube.com/channel/UCQaOR_QLI2tGceGAp3ZWfQw)
+
 
 ### Courses
 * [Bitcoin and Cryptocurrency Technologies ](https://www.coursera.org/learn/cryptocurrency) - Princeton University
