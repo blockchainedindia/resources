@@ -156,8 +156,8 @@ Curated list of blockchain and general cryptocurrency resources
 * [Xapo, the history of money (5 min):](http://youtu.be/IP0jCjyrew8)
 
 ### Youtube Channels
-* [AirBitz](https://www.youtube.com/channel/UCJaTFo0_z9lEG_v7L_LT2pw/videos)
 * [Andreas Antonopolous](https://www.youtube.com/user/aantonop)
+* [AirBitz](https://www.youtube.com/channel/UCJaTFo0_z9lEG_v7L_LT2pw/videos)
 * [Andy Ofiesh](https://www.youtube.com/user/JellyBaby68/videos)
 * [Bitcoin Embassy](https://www.youtube.com/user/JellyBaby68/videos)
 * [Bitcoin Foundation](https://www.youtube.com/user/BitcoinFoundation/videos)
@@ -165,7 +165,6 @@ Curated list of blockchain and general cryptocurrency resources
 * [Blockchain University](https://www.youtube.com/channel/UCJ5uHx90mZGlK0lC-GSmtzw/videos)
 * [Blockstack](https://www.youtube.com/channel/UC3J2iHnyt2JtOvtGVf_jpHQ)
 * [Bruce Fenton First Mover](https://www.youtube.com/user/BruceFenton/videos)
-* [Bruce Fentohttps://www.youtube.com/playlist?list=PLHRxVckaE8daSH4OEReWshCKWu3iIOIS-n First Mover](https://www.youtube.com/user/BruceFenton/videos)
 * [Coin Brief](https://www.youtube.com/user/Coinbrief/videos)
 * [Decentral.tv](https://www.youtube.com/user/decentralTV/videos)
 * [Ethereum for Dummies - Dr. Gavin Wood](https://www.youtube.com/watch?v=U_LK0t_qaPo)
@@ -184,7 +183,7 @@ Curated list of blockchain and general cryptocurrency resources
 * [deBitcoin](https://www.youtube.com/user/deBitcoin/videos)
 * [Trust Disrupted](https://www.youtube.com/playlist?list=PLHRxVckaE8daSH4OEReWshCKWu3iIOIS-)
 * [Introduction to Ethereum and Smart Contracts](https://www.youtube.com/watch?v=r7GVVk8v2Ik)
-* [BitcoinLectures.tv] (http://bitcoinlectures.tv)
+* [BitcoinLectures.tv](http://bitcoinlectures.tv)
 * [Everything Tangle](https://www.youtube.com/channel/UCQaOR_QLI2tGceGAp3ZWfQw)
 
 
