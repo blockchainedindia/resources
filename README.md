@@ -20,6 +20,7 @@ Curated list of blockchain and general cryptocurrency resources
 - [Tutorials](#tutorials)
 - [Testnet Faucets](#testnet-faucets)
 - [Articles](#articles)
+- [Other Decentralised Tech](#other-decentralised-tech)
 
 
 
@@ -184,7 +185,6 @@ Curated list of blockchain and general cryptocurrency resources
 * [Trust Disrupted](https://www.youtube.com/playlist?list=PLHRxVckaE8daSH4OEReWshCKWu3iIOIS-)
 * [Introduction to Ethereum and Smart Contracts](https://www.youtube.com/watch?v=r7GVVk8v2Ik)
 * [BitcoinLectures.tv](http://bitcoinlectures.tv)
-* [Everything Tangle](https://www.youtube.com/channel/UCQaOR_QLI2tGceGAp3ZWfQw)
 
 
 ### Courses
@@ -283,6 +283,10 @@ Bitcoin and Cryptocurrency Technologies Online Course](https://www.coursera.org/
 ### Articles
 * [Snarks](https://medium.com/@VitalikButerin/zk-snarks-under-the-hood-b33151a013f6)
 * [Bulletproofs](https://crypto.stanford.edu/bulletproofs) - Short Proofs for Confidential Transactions and More
+
+### Other Decentralised Tech
+* [Everything Tangle](https://www.youtube.com/channel/UCQaOR_QLI2tGceGAp3ZWfQw)
+* [Hashgraph](https://www.youtube.com/channel/UCIhE4NYpaX9E9SssFnwrjww)
 
 
 If you think something's missing, feel free to let us know about it [here](https://github.com/blockchainedindia/resources/issues/new).
