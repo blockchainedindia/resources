@@ -162,29 +162,30 @@ Curated list of blockchain and general cryptocurrency resources
 * [Andy Ofiesh](https://www.youtube.com/user/JellyBaby68/videos)
 * [Bitcoin Embassy](https://www.youtube.com/user/JellyBaby68/videos)
 * [Bitcoin Foundation](https://www.youtube.com/user/BitcoinFoundation/videos)
+* [BitcoinLectures.tv](http://bitcoinlectures.tv)
 * [Bitcoin Wednesday](https://www.youtube.com/channel/UCt-Po2gFQxiUngwJXh6s04w/videos)
 * [Blockchain University](https://www.youtube.com/channel/UCJ5uHx90mZGlK0lC-GSmtzw/videos)
 * [Blockstack](https://www.youtube.com/channel/UC3J2iHnyt2JtOvtGVf_jpHQ)
 * [Bruce Fenton First Mover](https://www.youtube.com/user/BruceFenton/videos)
 * [Coin Brief](https://www.youtube.com/user/Coinbrief/videos)
+* [Cryptonauts](https://www.youtube.com/channel/UCFBMJMfA6WcmoIOIb81JE0g)
+* [deBitcoin](https://www.youtube.com/user/deBitcoin/videos)
 * [Decentral.tv](https://www.youtube.com/user/decentralTV/videos)
-* [Ethereum for Dummies - Dr. Gavin Wood](https://www.youtube.com/watch?v=U_LK0t_qaPo)
 * [Draper University](https://www.youtube.com/user/TimothyDraper/videos)
 * [EtherCasts](https://www.youtube.com/user/EtherCasts)
 * [Ethereum Project](https://www.youtube.com/user/ethereumproject)
+* [Ethereum for Dummies - Dr. Gavin Wood](https://www.youtube.com/watch?v=U_LK0t_qaPo)
 * [EverydayCrpto](https://www.youtube.com/user/Cryptoeveryday/videos)
 * [Let's Talk Bitcoin](https://www.youtube.com/user/LetsTalkBitcoinChan)
 * [MIT Bitcoin Club](https://www.youtube.com/user/MITBitcoinClub/videos)
+* [Introduction to Ethereum and Smart Contracts](https://www.youtube.com/watch?v=r7GVVk8v2Ik)
 * [SF Bitcoin Meetup Industry](https://www.youtube.com/channel/UCOLeHoKV7SHwAAS0zBwsV-A/videos)
 * [Satoshi Pollen Technical](https://www.youtube.com/user/IamSatoshiNakamoto/videos)
 * [Texas Bitcoin Conference](Industy Info, Technical)
+* [Trust Disrupted](https://www.youtube.com/playlist?list=PLHRxVckaE8daSH4OEReWshCKWu3iIOIS-)
 * [University Of Nicosia](https://www.youtube.com/user/MScDigitalCurrency/videos)
 * [WBN](https://www.youtube.com/channel/UCgo7FCCPuylVk4luP3JAgVw/videos)
 * [World Crypto Network](Industry Info, Fun, Entertainment)
-* [deBitcoin](https://www.youtube.com/user/deBitcoin/videos)
-* [Trust Disrupted](https://www.youtube.com/playlist?list=PLHRxVckaE8daSH4OEReWshCKWu3iIOIS-)
-* [Introduction to Ethereum and Smart Contracts](https://www.youtube.com/watch?v=r7GVVk8v2Ik)
-* [BitcoinLectures.tv](http://bitcoinlectures.tv)
 
 
 ### Courses
@@ -286,6 +287,8 @@ Bitcoin and Cryptocurrency Technologies Online Course](https://www.coursera.org/
 
 ### Other Decentralised Tech
 * [Everything Tangle](https://www.youtube.com/channel/UCQaOR_QLI2tGceGAp3ZWfQw)
+* [IOTA projectstube](https://www.youtube.com/channel/UCPkbe3zIkNgJyB0zk6M1eaA)
+* [IOTA Currency](https://www.youtube.com/channel/UC8xt_puwPKpLwP_UTAa7YIQ)
 * [Hashgraph](https://www.youtube.com/channel/UCIhE4NYpaX9E9SssFnwrjww)
 
 
