@@ -19,6 +19,7 @@ Curated list of blockchain and general cryptocurrency resources
 - [Private Blockchains](#private-blockchain)
 - [Tutorials](#tutorials)
 - [Testnet Faucets](#testnet-faucets)
+- [Blogs](#blogs)
 - [Articles](#articles)
 - [Other Decentralised Tech](#other-decentralised-tech)
 
@@ -280,6 +281,23 @@ Bitcoin and Cryptocurrency Technologies Online Course](https://www.coursera.org/
 ### Testnet Faucets
 * [Get BTC on Testnet](http://tpfaucet.appspot.com)
 * [Get ETH on Rinkeby Testnet](https://www.rinkeby.io/#faucet)
+
+
+### Blogs
+* [Coindesk](https://www.coindesk.com)
+* [CoinTelegraph](https://cointelegraph.com)
+* [Blockchain Blog](https://blog.blockchain.com)
+* [Blockchain Blog on Medium](https://medium.com/blockchain-blog)
+* [IBM Blockchain Blog](https://www.ibm.com/blogs/blockchain)
+* [CCN](https://www.ccn.com)
+* [Bitcoin Blog](https://bitcoin.org/en/blog)
+* [Coinbase Blog](https://blog.coinbase.com)
+* [ForkLog](http://forklog.net)
+* [Ethereum Blog](https://blog.ethereum.org)
+* [Ethereum World News](http://ethereumworldnews.com)
+* [Zebpay Blog](https://blog.zebpay.com)
+* [Coingate Blog](https://blog.coingate.com)
+
 
 ### Articles
 * [Snarks](https://medium.com/@VitalikButerin/zk-snarks-under-the-hood-b33151a013f6)
