@@ -22,6 +22,7 @@ Curated list of blockchain and general cryptocurrency resources
 - [Blogs](#blogs)
 - [Articles](#articles)
 - [Other Decentralised Tech](#other-decentralised-tech)
+- [Discussion Groups](#discussion-groups)
 
 
 
@@ -308,6 +309,25 @@ Bitcoin and Cryptocurrency Technologies Online Course](https://www.coursera.org/
 * [IOTA projectstube](https://www.youtube.com/channel/UCPkbe3zIkNgJyB0zk6M1eaA)
 * [IOTA Currency](https://www.youtube.com/channel/UC8xt_puwPKpLwP_UTAa7YIQ)
 * [Hashgraph](https://www.youtube.com/channel/UCIhE4NYpaX9E9SssFnwrjww)
+
+
+### Discussion Groups
+* [Blockchained India](https://t.me/blockchainedindia)
+* [Crypto Trading](https://t.me/joinchat/BnH_xRIatZHoB-NH31Dkrg)
+* [Bitcoin Core](https://t.me/BitcoinCore)
+* [LiteCoin](https://t.me/Litecoin)
+* [Unofficial LTC](https://t.me/litecoiner)
+* [Peercoin](https://t.me/peercoin)
+* [Nucleus Vision](https://t.me/NucleusVision)
+* [IOTA Tech](https://t.me/iotatangle)
+* [IOTA Slack](https://slack.iota.org)
+* [Mercury Protocol](https://t.me/MercuryProtocol)
+* [Envion](https://t.me/Envion)
+* [Hashgraph](http://t.me/hashgraph)
+* [Hashgraph Dev](http://t.me/hashgraphdev)
+* [Hashgraph News](http://t.me/hashgraphnews)
+* [Leverj](https://t.me/Leverj)
+* [Prover Project](https://t.me/prover_io)
 
 
 If you think something's missing, feel free to let us know about it [here](https://github.com/blockchainedindia/resources/issues/new).
