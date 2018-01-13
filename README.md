@@ -50,6 +50,8 @@ Curated list of blockchain and general cryptocurrency resources
 * [The Fourth Industrial Revolution](https://www.amazon.com/Fourth-Industrial-Revolution-Klaus-Schwab/dp/1944835008/ref=sr_1_1?s=books&ie=UTF8&qid=1476984488&sr=1-1&keywords=The+Fourth+Industrial+Revolution) - Prof Klaus Schwab
 * [The Science of the Blockchain](https://www.amazon.com/Science-Blockchain-Inverted-Forest-Publishing/dp/1522751831/ref=pd_sim_14_10?_encoding=UTF8&pd_rd_i=1522751831&pd_rd_r=FF7D9XVT7EPCACXH29Z8&pd_rd_w=JXBSj&pd_rd_wg=pcc0Z&psc=1&refRID=FF7D9XVT7EPCACXH29Z8) - Roger Wattenhofer
 * [ValueWeb: How FinTech firms are using mobile and blockchain technologies to create the Internet of Value](https://www.amazon.com/ValueWeb-Fintech-Blockchain-Technologies-Internet/dp/9814677175/ref=pd_sim_14_10?_encoding=UTF8&pd_rd_i=9814677175&pd_rd_r=BCCHSTJWGE32H74XN9GZ&pd_rd_w=2YGDw&pd_rd_wg=UB9kN&psc=1&refRID=BCCHSTJWGE32H74XN9GZ) -Chris Skinner
+* [Blockchain for Dummies](https://www.amazon.com/Blockchain-Dummies-Computer-Tech/dp/1119365597) - Tiana Laurence
+* [Mastering Bitcoin Programming](https://www.amazon.in/Mastering-Bitcoin-Programming-Open-Blockchain/dp/9352135741) - Andreas M. Antonopoulos
 
 
 ### White papers
