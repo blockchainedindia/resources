@@ -330,6 +330,7 @@ Bitcoin and Cryptocurrency Technologies Online Course](https://www.coursera.org/
 * [Hashgraph News](http://t.me/hashgraphnews)
 * [Leverj](https://t.me/Leverj)
 * [Prover Project](https://t.me/prover_io)
+* [CanYa Community](https://t.me/CanYaCommunity)
 
 
 If you think something's missing, feel free to let us know about it [here](https://github.com/blockchainedindia/resources/issues/new).
