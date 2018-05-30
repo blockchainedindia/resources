@@ -125,6 +125,7 @@ Curated list of blockchain and general cryptocurrency resources
 * [Smart Contracts: The Ultimate Guide To Blockchain Smart Contracts - Learn How To Use Smart Contracts For Cryptocurrency Exchange!](https://www.amazon.com/Smart-Contracts-Ultimate-Blockchain-Cryptocurrency-ebook/dp/B01LYK175F/ref=sr_1_2?ie=UTF8&qid=1476984876&sr=8-2&keywords=Smart+Contracts%3A+How+to+Use+Blockchain) - Terry Parker
 * [The Modern Ethereum](https://www.amazon.com/Modern-Ethereum-Ryan-Venter-ebook/dp/B01KIRQZ0S/ref=sr_1_1?ie=UTF8&qid=1476985723&sr=8-1&keywords=The+Modern+Ethereum) - Ryan Venter
 * [TurboEthereum Guide](https://www.gitbook.com/book/gavofyork/turboethereum/details) - Gavin Wood
+* [Crypto Zombies](https://cryptozombies.io/en/course/)
 
 
 ### Infographics
@@ -305,6 +306,7 @@ Bitcoin and Cryptocurrency Technologies Online Course](https://www.coursera.org/
 ### Articles
 * [Snarks](https://medium.com/@VitalikButerin/zk-snarks-under-the-hood-b33151a013f6)
 * [Bulletproofs](https://crypto.stanford.edu/bulletproofs) - Short Proofs for Confidential Transactions and More
+* [blockchain-applications](https://www.connectbit.com/blockchain-applications/) - Cheefoo (@hellocourage)
 
 ### Other Decentralised Tech
 * [Everything Tangle](https://www.youtube.com/channel/UCQaOR_QLI2tGceGAp3ZWfQw)
