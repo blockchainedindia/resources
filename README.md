@@ -25,6 +25,8 @@ Curated list of blockchain and general cryptocurrency resources
 - [Discussion Groups](#discussion-groups)
 
 
+### Cryptography
+* [Cryptography Basics](http://www.cis.syr.edu/~wedu/Teaching/cis758/LectureNotes_New/Crypto.pdf)
 
 
 ### Blockchain Books
