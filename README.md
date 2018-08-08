@@ -212,6 +212,7 @@ Curated list of blockchain and general cryptocurrency resources
 * [Introduction to Bitcoin and Decentralized Technology By Scott Driscoll](https://www.pluralsight.com/courses/bitcoin-decentralized-technology) - Pluralsight
 * [The Basics of Blockchain: A Beginner's Guide to Blockchain](https://www.udemy.com/the-basics-of-blockchain/) - Udemy
 * [The Complete Ethereum Course](https://www.udemy.com/ethereum/?couponCode=DEVCON) - udemy
+* [Learn About Bitcoin, Ethereum, Cryptocurrency and Blockchain](https://www.upfolio.com/guides) - Upfolio
 
 
 ### Documentaries
