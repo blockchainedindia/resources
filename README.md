@@ -109,6 +109,14 @@ Curated list of blockchain and general cryptocurrency resources
 * [Virtual Billions: The Genius, the Drug Lord, and the Ivy League Twins behind the Rise of Bitcoin](https://www.amazon.com/Virtual-Billions-Genius-League-Bitcoin/dp/163388144X/ref=sr_1_1?ie=UTF8&qid=1476986258&sr=8-1&keywords=Virtual+Billions%3A+The+Genius) - Eric Geissinger
 * [Wildcat Currency](https://www.amazon.com/Wildcat-Currency-Virtual-Revolution-Transforming/dp/0300186134/ref=sr_1_1?ie=UTF8&qid=1476986207&sr=8-1&keywords=Wildcat+Currency) - Edward Castronova
 
+### Network Effects
+* [A Note on Metcalfe's Law, Externalities and Ecosystem Splits](http://vitalik.ca/general/2017/07/27/metcalfe.html) by Vitalik Buterin
+* [Continuous Token Models: Towards a Million Networks of Value](https://media.consensys.net/exploring-continuous-token-models-towards-a-million-networks-of-value-fff153175776) by Simon de la Rouviere
+* [Crypto Tokens:  A breakthrough in open network design](https://medium.com/@cdixon/crypto-tokens-a-breakthrough-in-open-network-design-e600975be2ef) by Chris Dixon
+* [Bitcoin Network Effects](http://blog.eladgil.com/2017/12/bitcoin-network-effects_11.html)
+* [Keepers — Workers that Maintain Blockchain Networks](https://medium.com/@rzurrer/keepers-workers-that-maintain-blockchain-networks-a40182615b66)
+* [Smart-Contract Network Effect Fallacy](https://multicoin.capital/2017/08/28/smart-contract-network-effect-fallacy/)
+
 ### Ethereum and Smart Contracts
 * [A Proof of Stake Design Philosophy](https://medium.com/@VitalikButerin/a-proof-of-stake-design-philosophy-506585978d51#.43e2aeta8) - Vitalik Buterin
 * [Blockchain contracts and CyberLaw](https://www.amazon.com/BLOCKCHAIN-CONTRACTS-CYBERLAW-PAVAN-DUGGAL-ebook/dp/B019S2I1CE/ref=sr_1_1?ie=UTF8&qid=1476985977&sr=8-1&keywords=Blockchain+contracts+and+CyberLaw) - Pavan Duggal
@@ -309,6 +317,47 @@ Bitcoin and Cryptocurrency Technologies Online Course](https://www.coursera.org/
 * [Snarks](https://medium.com/@VitalikButerin/zk-snarks-under-the-hood-b33151a013f6)
 * [Bulletproofs](https://crypto.stanford.edu/bulletproofs) - Short Proofs for Confidential Transactions and More
 * [blockchain-applications](https://www.connectbit.com/blockchain-applications/) - Cheefoo (@hellocourage)
+
+### Consensus Mechanisms
+
+#### PoW - Proof of Work
+* [PoW and Blockchains](https://www.zurich.ibm.com/dccl/papers/eyal_dccl_slides.pdf) presentation by Prof. Ittay Eyal (IC3)
+* [The PoW concept](http://nakamotoinstitute.org/mempool/the-proof-of-work-concept/) article by the Nakamoto Institute
+* [Proof of Work vs Proof of Stake](https://blockgeeks.com/guides/proof-of-work-vs-proof-of-stake/) by BlockGeeks
+* [Vulnerability: Proof of Work vs. Proof of Stake](https://medium.com/@robertgreenfieldiv/vulnerability-proof-of-work-vs-proof-of-stake-f0c44807d18c)
+
+#### PoS - Proof of Stake
+* [Strengths and Weaknesses of PoS](https://blog.ethereum.org/2014/07/05/stake/) Vitalik Buterin's article on the strengths and weaknesses of staking contrasting to PoW algorithms
+* [PoS Design Philosophy](https://medium.com/@VitalikButerin/a-proof-of-stake-design-philosophy-506585978d51) A Proof of Stake Design Philosophy by Vitalik Buterin
+* [Ethereum PoS FAQ](https://github.com/ethereum/wiki/wiki/Proof-of-Stake-FAQ)
+* [The evolution of PoS](https://cointelegraph.com/news/the-history-and-evolution-of-proof-of-stake) Article on the evolution of PoS by Coin Telegraph
+* [Weak Subjectivity in PoS](https://blog.ethereum.org/2014/11/25/proof-stake-learned-love-weak-subjectivity/) Weak Subjectivity in PoS by Vitalik Buterin
+* [The History of Casper - Chapter 1](https://medium.com/@Vlad_Zamfir/the-history-of-casper-part-1-59233819c9a9) Vlad Zamfir's series on the history of Casper, [Chapter 2](https://medium.com/@Vlad_Zamfir/the-history-of-casper-chapter-2-8e09b9d3b780), [Chapter 3](https://medium.com/@Vlad_Zamfir/the-history-of-casper-chapter-3-70fefb1182fc), [Chapter 4](https://medium.com/@Vlad_Zamfir/the-history-of-casper-chapter-4-3855638b5f0e),
+  [Chapter 5](https://medium.com/@Vlad_Zamfir/the-history-of-casper-chapter-5-8652959cef58)
+* [On Stake and Consensus](https://download.wpsoftware.net/bitcoin/pos.pdf)
+* [Critic on the PoS Philosophy](https://medium.com/@tuurdemeester/critique-of-buterins-a-proof-of-stake-design-philosophy-49fc9ebb36c6) by Tuur Demeester
+* [Extended Summary on Casper](https://medium.com/@jonchoi/ethereum-casper-101-7a851a4f1eb0) by Jon Choi
+* [The Economics of the PoS consensus algorithm](https://medium.com/@gertrammeloo/the-economics-of-the-proof-of-stake-consensus-algorithm-e28adf63e9db)
+* [Casper vs Tendermint](https://blog.cosmos.network/consensus-compare-casper-vs-tendermint-6df154ad56ae)
+* [Minimal Slashing condition in Ethereum](https://medium.com/@VitalikButerin/minimal-slashing-conditions-20f0b500fc6c)
+
+#### DPoS - Delegated Proof of Stake
+* [DPoS Introduction](https://bitshares.org/technology/delegated-proof-of-stake-consensus/) Introduction to DPoS by Bitshares
+* [DPoS vs PoW](http://bytemaster.github.io/bitshares/2015/01/04/Delegated-Proof-of-Stake-vs-Proof-of-Work/) Article by Daniel Larimer from Bitshares
+* [Tendermint BFT vs. EOS dPoS](https://blog.cosmos.network/consensus-compare-tendermint-bft-vs-eos-dpos-46c5bca7204b) by Tendermint
+* [Seeking Consensus on Consensus](https://steemit.com/eos/@iang/seeking-consensus-on-consensus-dpos-or-delegated-proof-of-stake-and-the-two-generals-problem) Delegated Proof of Stake and the Two Generals' Problem
+
+#### dBFT - Delegated Byzantine Fault Tolerance
+* [Byzantine Fault Tolerance in Distributed Systems](http://sce.uhcl.edu/goodwin/Ceng5334/downLoads/byzantine.pdf) by Prof. Kenneth Goodwin
+* [dBFT vs PoW and PoS](https://www.econotimes.com/Blockchain-project-Antshares-explains-reasons-for-choosing-dBFT-over-PoW-and-PoS-659275) Antshare's (now NEO) views on consensus
+* [Intro to Ethermint BFT](https://blog.cosmos.network/a-beginners-guide-to-ethermint-38ee15f8a6f4)
+
+### Governance
+* [The Consensus Series, Part I: The Basics of Collectivity](https://blog.coinfund.io/the-consensus-series-part-i-the-basics-of-collectivity-a11d76ff4d5d) and [Addendum](https://buzzrobot.com/consensus-series-addendum-1-what-do-the-robots-want-729349014aee) by Aleksandr Bulkin
+* [Governance and Network Effects](https://blog.aragon.one/thoughts-on-governance-and-network-effects-f40fda3e3f98)
+* [Notes on Blockchain Governance](https://vitalik.ca/general/2017/12/17/voting.html) by Vitalik Buterin
+* [Against On-Chain Governance](https://medium.com/@Vlad_Zamfir/against-on-chain-governance-a4ceacd040ca) by Vlad Zamfir
+* [On Public vs Private Blockchains]https://blog.ethereum.org/2015/08/07/on-public-and-private-blockchains/) by Vitalik Buterin
 
 ### Other Decentralised Tech
 * [Everything Tangle](https://www.youtube.com/channel/UCQaOR_QLI2tGceGAp3ZWfQw)
