@@ -364,6 +364,7 @@ Bitcoin and Cryptocurrency Technologies Online Course](https://www.coursera.org/
 * [Everything Tangle](https://www.youtube.com/channel/UCQaOR_QLI2tGceGAp3ZWfQw)
 * [IOTA projectstube](https://www.youtube.com/channel/UCPkbe3zIkNgJyB0zk6M1eaA)
 * [IOTA Currency](https://www.youtube.com/channel/UC8xt_puwPKpLwP_UTAa7YIQ)
+* [IOTA WhitePaper v1.3](http://iotatoken.com/IOTA_Whitepaper.pdf)
 * [Hashgraph](https://www.youtube.com/channel/UCIhE4NYpaX9E9SssFnwrjww)
 
 
