@@ -358,7 +358,7 @@ Bitcoin and Cryptocurrency Technologies Online Course](https://www.coursera.org/
 * [Governance and Network Effects](https://blog.aragon.one/thoughts-on-governance-and-network-effects-f40fda3e3f98)
 * [Notes on Blockchain Governance](https://vitalik.ca/general/2017/12/17/voting.html) by Vitalik Buterin
 * [Against On-Chain Governance](https://medium.com/@Vlad_Zamfir/against-on-chain-governance-a4ceacd040ca) by Vlad Zamfir
-* [On Public vs Private Blockchains]https://blog.ethereum.org/2015/08/07/on-public-and-private-blockchains/) by Vitalik Buterin
+* [On Public vs Private Blockchains](https://blog.ethereum.org/2015/08/07/on-public-and-private-blockchains/) by Vitalik Buterin
 
 ### Other Decentralised Tech
 * [Everything Tangle](https://www.youtube.com/channel/UCQaOR_QLI2tGceGAp3ZWfQw)
