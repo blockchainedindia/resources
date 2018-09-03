@@ -4,6 +4,7 @@ Curated list of blockchain and general cryptocurrency resources
 
 # Table of Contents
 
+- [Cryptography](#cryptography)
 - [Bitcoin Books](#bitcoin)
 - [Blockchain Art](#blockchain-art)
 - [Blockchain Books](#blockchain-books)
@@ -27,6 +28,7 @@ Curated list of blockchain and general cryptocurrency resources
 
 ### Cryptography
 * [Cryptography Basics](http://www.cis.syr.edu/~wedu/Teaching/cis758/LectureNotes_New/Crypto.pdf)
+* [An Intensive Introduction to Cryptography](https://www.intensecrypto.org/public/)
 
 
 ### Blockchain Books
