@@ -19,7 +19,7 @@ Curated list of blockchain and general cryptocurrency resources
 - [Assets](#assets)
 - [Private Blockchains](#private-blockchain)
 - [Tutorials](#tutorials)
-- [Testnet Faucets](#testnet-faucets)
+- [Faucets](#faucets)
 - [Blogs](#blogs)
 - [Articles](#articles)
 - [Other Decentralised Tech](#other-decentralised-tech)
@@ -295,9 +295,10 @@ Bitcoin and Cryptocurrency Technologies Online Course](https://www.coursera.org/
 * [How to decrypt messages in the blockchain from btcmsg](https://gist.github.com/ripper234/1625828) by ripper234
 
 
-### Testnet Faucets
+### Faucets
 * [Get BTC on Testnet](http://tpfaucet.appspot.com)
 * [Get ETH on Rinkeby Testnet](https://www.rinkeby.io/#faucet)
+* [BlockX Labs Universal Faucet](https://faucets.blockxlabs.com/)
 
 
 ### Blogs
