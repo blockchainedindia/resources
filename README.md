@@ -293,6 +293,8 @@ Bitcoin and Cryptocurrency Technologies Online Course](https://www.coursera.org/
 * [2 of 2 escrow example](https://gist.github.com/jashmenn/9811198) by Maxwell
 * [2 of 3 multisig example](https://gist.github.com/jashmenn/9811185) by Andresen
 * [How to decrypt messages in the blockchain from btcmsg](https://gist.github.com/ripper234/1625828) by ripper234
+* [HyperLedger Training & certifications](https://www.hyperledger.org/resources/training)
+* [Blockchain council](https://www.blockchain-council.org/certification-training/)
 
 
 ### Faucets
@@ -321,6 +323,7 @@ Bitcoin and Cryptocurrency Technologies Online Course](https://www.coursera.org/
 * [Snarks](https://medium.com/@VitalikButerin/zk-snarks-under-the-hood-b33151a013f6)
 * [Bulletproofs](https://crypto.stanford.edu/bulletproofs) - Short Proofs for Confidential Transactions and More
 * [blockchain-applications](https://www.connectbit.com/blockchain-applications/) - Cheefoo (@hellocourage)
+* [HyperLedger Fabric](https://hyperledger-fabric.readthedocs.io/en/latest/index.html)
 
 ### Consensus Mechanisms
 
