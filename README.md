@@ -383,7 +383,6 @@ Bitcoin and Cryptocurrency Technologies Online Course](https://www.coursera.org/
 * [LiteCoin](https://t.me/Litecoin)
 * [Unofficial LTC](https://t.me/litecoiner)
 * [Peercoin](https://t.me/peercoin)
-* [Nucleus Vision](https://t.me/NucleusVision)
 * [IOTA Tech](https://t.me/iotatangle)
 * [IOTA Slack](https://slack.iota.org)
 * [Mercury Protocol](https://t.me/MercuryProtocol)
