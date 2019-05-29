@@ -29,6 +29,11 @@ Curated list of blockchain and general cryptocurrency resources
 ### Cryptography
 * [Cryptography Basics](http://www.cis.syr.edu/~wedu/Teaching/cis758/LectureNotes_New/Crypto.pdf)
 * [An Intensive Introduction to Cryptography](https://www.intensecrypto.org/public/)
+* [What is PGP?](https://www.binance.vision/security/what-is-pgp) - Binance Academy
+* [What Is Symmetric Key Crpytography](https://www.binance.vision/security/what-is-symmetric-key-cryptography) - Binance Academy
+* [Symmetric vs. Asymmetric Encryption](https://www.binance.vision/security/symmetric-vs-asymmetric-encryption) - Binance Academy
+* [What Is Public Key Cryptography](https://www.binance.vision/security/what-is-public-key-cryptography) - Binance Academy
+* [History of Cryptography](https://www.binance.vision/security/history-of-cryptography) - Binance Academy
 
 
 ### Blockchain Books
@@ -177,6 +182,7 @@ Curated list of blockchain and general cryptocurrency resources
 * [Andreas Antonopolous](https://www.youtube.com/user/aantonop)
 * [AirBitz](https://www.youtube.com/channel/UCJaTFo0_z9lEG_v7L_LT2pw/videos)
 * [Andy Ofiesh](https://www.youtube.com/user/JellyBaby68/videos)
+* [Binance Academy](https://www.youtube.com/BinanceAcademy)
 * [Bitcoin Embassy](https://www.youtube.com/user/JellyBaby68/videos)
 * [Bitcoin Foundation](https://www.youtube.com/user/BitcoinFoundation/videos)
 * [BitcoinLectures.tv](http://bitcoinlectures.tv)
@@ -317,6 +323,10 @@ Bitcoin and Cryptocurrency Technologies Online Course](https://www.coursera.org/
 * [Ethereum World News](http://ethereumworldnews.com)
 * [Zebpay Blog](https://blog.zebpay.com)
 * [Coingate Blog](https://blog.coingate.com)
+* [Binance Blog](https://www.binance.com/en/blog/)
+* [Binance Academy](https://www.binance.vision)
+
+
 
 
 ### Articles
@@ -328,12 +338,14 @@ Bitcoin and Cryptocurrency Technologies Online Course](https://www.coursera.org/
 * [HyperLedger Fabric](https://hyperledger-fabric.readthedocs.io/en/latest/index.html)
 
 ### Consensus Mechanisms
+* [What Is a Blockchain Consensus Mechanism](https://www.binance.vision/blockchain/what-is-a-blockchain-consensus-algorithm) by Binance Academy
 
 #### PoW - Proof of Work
 * [PoW and Blockchains](https://www.zurich.ibm.com/dccl/papers/eyal_dccl_slides.pdf) presentation by Prof. Ittay Eyal (IC3)
 * [The PoW concept](http://nakamotoinstitute.org/mempool/the-proof-of-work-concept/) article by the Nakamoto Institute
 * [Proof of Work vs Proof of Stake](https://blockgeeks.com/guides/proof-of-work-vs-proof-of-stake/) by BlockGeeks
 * [Vulnerability: Proof of Work vs. Proof of Stake](https://medium.com/@robertgreenfieldiv/vulnerability-proof-of-work-vs-proof-of-stake-f0c44807d18c)
+* [Proof of Work Explained](https://www.binance.vision/blockchain/proof-of-work-explained) by Binance Academy
 
 #### PoS - Proof of Stake
 * [Strengths and Weaknesses of PoS](https://blog.ethereum.org/2014/07/05/stake/) Vitalik Buterin's article on the strengths and weaknesses of staking contrasting to PoW algorithms
@@ -349,12 +361,14 @@ Bitcoin and Cryptocurrency Technologies Online Course](https://www.coursera.org/
 * [The Economics of the PoS consensus algorithm](https://medium.com/@gertrammeloo/the-economics-of-the-proof-of-stake-consensus-algorithm-e28adf63e9db)
 * [Casper vs Tendermint](https://blog.cosmos.network/consensus-compare-casper-vs-tendermint-6df154ad56ae)
 * [Minimal Slashing condition in Ethereum](https://medium.com/@VitalikButerin/minimal-slashing-conditions-20f0b500fc6c)
+* [Proof of Stake Explained](https://www.binance.vision/blockchain/proof-of-stake-explained)
 
 #### DPoS - Delegated Proof of Stake
 * [DPoS Introduction](https://bitshares.org/technology/delegated-proof-of-stake-consensus/) Introduction to DPoS by Bitshares
 * [DPoS vs PoW](http://bytemaster.github.io/bitshares/2015/01/04/Delegated-Proof-of-Stake-vs-Proof-of-Work/) Article by Daniel Larimer from Bitshares
 * [Tendermint BFT vs. EOS dPoS](https://blog.cosmos.network/consensus-compare-tendermint-bft-vs-eos-dpos-46c5bca7204b) by Tendermint
 * [Seeking Consensus on Consensus](https://steemit.com/eos/@iang/seeking-consensus-on-consensus-dpos-or-delegated-proof-of-stake-and-the-two-generals-problem) Delegated Proof of Stake and the Two Generals' Problem
+* [DPoS Explained](https://www.binance.vision/blockchain/delegated-proof-of-stake-explained) by Binance Academy
 
 #### dBFT - Delegated Byzantine Fault Tolerance
 * [Byzantine Fault Tolerance in Distributed Systems](http://sce.uhcl.edu/goodwin/Ceng5334/downLoads/byzantine.pdf) by Prof. Kenneth Goodwin
