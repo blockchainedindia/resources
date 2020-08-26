@@ -208,7 +208,26 @@ Curated list of blockchain and general cryptocurrency resources
 * [Trust Disrupted](https://www.youtube.com/playlist?list=PLHRxVckaE8daSH4OEReWshCKWu3iIOIS-)
 * [University Of Nicosia](https://www.youtube.com/user/MScDigitalCurrency/videos)
 * [WBN](https://www.youtube.com/channel/UCgo7FCCPuylVk4luP3JAgVw/videos)
-* [World Crypto Network](Industry Info, Fun, Entertainment)
+* World Crypto Network - Industry Info, Fun, Entertainment
+* [How Bitcoin Works](https://www.youtube.com/watch?v=Lx9zgZCMqXE&t=922s)
+* General - https://www.youtube.com/watch?v=bBC-nXj3Ng4&t=5s
+* Sidechain - https://www.youtube.com/watch?v=g9_MakNlHDA
+* BZFT - https://www.youtube.com/watch?v=_e4wNoTV3Gw&t=25s
+* Proof of Work - https://www.youtube.com/watch?v=RPP2f_Fn8iQ
+* Hashing + Digital signature- https://www.youtube.com/watch?v=Y6GGzzKm2Ig
+* Proof of Stake - https://www.youtube.com/watch?v=M3EFi_POhps
+* Bitcoin Transactions - https://www.youtube.com/watch?v=Em8nJN8IEes
+* https://www.youtube.com/watch?v=f9nxuhLSyOg
+* Bitcoin Mining - https://www.youtube.com/watch?v=uGKhJfZqWTY
+* Cryptography - https://www.youtube.com/watch?v=U5sCY-B1hXk
+* Hash Code - https://www.youtube.com/watch?v=DSTpMWv0IlA&t=724s
+* Smart Contract Demo - https://www.youtube.com/watch?v=6RCtNrlzV28
+* https://www.youtube.com/watch?v=GJRNTcVVW8M
+* ICO - https://www.youtube.com/watch?v=VcEi2HO9whM
+* What is Smart Contract - https://www.youtube.com/watch?v=qdoUpGg_DpQ
+* https://www.bitcoinplus.org/blog/block-size-and-transactions-second
+* Dapp on Hyperledger fabric - https://www.youtube.com/watch?v=u_FeV7uo90w
+
 
 
 ### Courses
