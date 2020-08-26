@@ -312,6 +312,7 @@ Bitcoin and Cryptocurrency Technologies Online Course](https://www.coursera.org/
 ### Blogs
 * [Coindesk](https://www.coindesk.com)
 * [CoinTelegraph](https://cointelegraph.com)
+* [Blockchain.News](https://blockchain.news/)
 * [Blockchain Blog](https://blog.blockchain.com)
 * [Blockchain Blog on Medium](https://medium.com/blockchain-blog)
 * [IBM Blockchain Blog](https://www.ibm.com/blogs/blockchain)
