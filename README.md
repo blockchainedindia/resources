@@ -328,8 +328,6 @@ Bitcoin and Cryptocurrency Technologies Online Course](https://www.coursera.org/
 * [Binance Academy](https://www.binance.vision)
 
 
-
-
 ### Articles
 * [Blockchained India Articles](https://medium.com/blockchainedindia)
 * [Acyclic Labs Articles](https://medium.com/acycliclabs)
@@ -337,6 +335,7 @@ Bitcoin and Cryptocurrency Technologies Online Course](https://www.coursera.org/
 * [Bulletproofs](https://crypto.stanford.edu/bulletproofs) - Short Proofs for Confidential Transactions and More
 * [blockchain-applications](https://www.connectbit.com/blockchain-applications/) - Cheefoo (@hellocourage)
 * [HyperLedger Fabric](https://hyperledger-fabric.readthedocs.io/en/latest/index.html)
+* [Blockchain Architecture Explained](https://techwithgajesh.com/blockchain-architecture-explained/)
 
 ### Consensus Mechanisms
 * [What Is a Blockchain Consensus Mechanism](https://www.binance.vision/blockchain/what-is-a-blockchain-consensus-algorithm) by Binance Academy
